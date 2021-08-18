@@ -6,3 +6,4 @@
 - Clonar Repositório: git clone <url>
 - Juntar Branches: git merge <nome-branch>
 luan gabriel costa ramos
+kdaksmfkd,f

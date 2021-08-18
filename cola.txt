@@ -5,3 +5,4 @@
 - Enviar Alterações para Github: git push origin <branch>
 - Clonar Repositório: git clone <url>
 - Juntar Branches: git merge <nome-branch>
+luan gabriel costa ramos

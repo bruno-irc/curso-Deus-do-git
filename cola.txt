@@ -1,0 +1,7 @@
+---------Cola--------
+- Preparar Arquivos: git add .
+- Fazer Commit: git commit -m "<mensagem>"
+- Criar Branch: git branch <nome-branch>
+- Enviar Alterações para Github: git push origin <branch>
+- Clonar Repositório: git clone <url>
+- Juntar Branches: git merge <nome-branch>

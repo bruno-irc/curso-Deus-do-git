@@ -9,5 +9,6 @@ def envia_lat_long_v4(latitude, longitude):
         'dest_addr': Controlador,
         'data': DATA
         #teste de git
+        #teste branch
     }
     radio.send_xbee_frame(g)

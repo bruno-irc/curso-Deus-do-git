@@ -7,6 +7,7 @@ def envia_lat_long_v4(latitude, longitude):
         'type': 'tx',
         'frame_id': frame_id,
         'dest_addr': Controlador,
-        'data': DATA
+        'data': DATA,
+        'none': None
     }
     radio.send_xbee_frame(g)
